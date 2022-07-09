@@ -1,5 +1,5 @@
 export const API_BASE_URL = "https://www.sunshinedeliver.com";
-export const GOOGLE_MAP_KEY = "AIzaSyA0FkQ9pIIalmGq9adD7ATekpPEq29yvGk"
+export const GOOGLE_MAP_KEY = "your key"
 
 export const getApiUrl = (endpoint) => API_BASE_URL + endpoint;
 
